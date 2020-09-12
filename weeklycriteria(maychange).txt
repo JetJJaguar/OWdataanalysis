@@ -1,0 +1,10 @@
+weekly console/pc all/bronze/silver/gold/platinum/diamond/master/grandmaster (exclude switch)
+win rates
+on fire
+tie rates
+pick rates
+elim ratio
+obj kills 
+obj time
+damage
+hero statistics such as: healing, weapon accuracy(scoped/unscoped etc) medals(gold silver bronze)
