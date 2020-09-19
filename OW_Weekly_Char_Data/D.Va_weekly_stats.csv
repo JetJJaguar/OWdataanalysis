@@ -1,2 +1,3 @@
-﻿HeroId,Name,Weekof,Elims,ObjKills,ObjTime(min),Damage,WeaponAcc,AvgDeath,Final Blows,Mech Deaths,DestructKills,KD Ratio,VotingCards,Medals,GoldMed,SilverMed,BronzeMed,CriticalHits,DMG Blocked,MaxWinRate,MaxPickRate,MaxTieRate
-6,D.Va,9/6/2020,25.5,8.47,2.05,13918,24%,6.1,8.82,8.28,2.62,4.18,0.24,2.87,0.94,0.95,0.98,8.20%,7160,51.91%,2.15%,2.06%
+﻿HeroId,Name,Weekof,Elims,ObjKills,ObjTime(min),Damage,AvgDeath,WeaponAcc,CriticalHits,DMG Blocked,Final Blows,Mech Deaths,DestructKills,KD Ratio,VotingCards,Medals,GoldMed,SilverMed,BronzeMed,MaxWinRate,MaxTieRate,MaxPickRate
+6,D.Va,9/6/2020,25.5,8.47,2.05,13918,6.1,24%,8.20%,7160,8.82,8.28,2.62,4.18,0.24,2.87,0.94,0.95,0.98,51.91%,2.06%,2.15%
+6,D.va,9/13/2020,25.5,8.47,2.05,13918,6.1,24%,8.20%,7160,8.82,8.28,2.62,4.18,0.24,2.87,0.94,0.95,0.98,51.83%,1.88%,2.84%
